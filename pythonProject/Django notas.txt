@@ -1,0 +1,6 @@
+como criar projeto django 
+django-admin startproject [nome]
+como criar aplicação django 
+django-admin startapp [nome]
+
+Para cada aplicação que criar devo ir em settings e colocar o nome da aplicação em installed_apps;
